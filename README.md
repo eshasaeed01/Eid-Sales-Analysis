@@ -21,7 +21,7 @@ The primary dataset used for this analysis is "Eid Sales Data.csv" ,containing a
 EDA involved exploring the sales data to answer key questions , such as:
 1. Most of the customers are male or female?
 2. Age group of the customers?
-3. What are the total sales rom top 10 states?
+3. What are the total sales from top 10 states?
 4. What are the marital status and occupation of the customers?
 5. Which is the most selling product ?
 
